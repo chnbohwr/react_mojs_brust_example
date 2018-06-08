@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
+import './style/theme.css';
 
 const render = () => {
   const Main = require('containers').default;
