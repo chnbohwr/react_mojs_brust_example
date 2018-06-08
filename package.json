@@ -1,7 +1,7 @@
 {
-  "name": "simple_react_start_kit_2017",
-  "description": "react webpack2 react-router example",
-  "version": "1.2.0",
+  "name": "react_mojs_brust_example",
+  "description": "mo-js brust example build with react and react router, when router change, it will animate",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "clean": "rimraf dist/*",
@@ -15,7 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "private": true,
   "dependencies": {
     "mo-js": "^0.288.2",
     "react": "^16.4.0",
